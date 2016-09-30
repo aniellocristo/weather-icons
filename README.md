@@ -1,0 +1,1 @@
+This repo contains various weather icons in .png format in addition to the working Adobe Illustrator working file. Feel free to download and change the file names to coincide with your favorite weather API. 
